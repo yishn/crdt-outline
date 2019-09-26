@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/yishn/crdt-outline/issues"
   },
-  "homepage": "https://github.com/yishn/crdt-outline#readme"
+  "homepage": "https://github.com/yishn/crdt-outline#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
 }
